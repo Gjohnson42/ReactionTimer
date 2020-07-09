@@ -8,6 +8,9 @@ namespace ReactionTimer
         {
             //This is just to show that changes update. 
             Console.WriteLine("Hello World!");
+            double timeElapsed = HelperFunctions.PromptReaction("Go!");
+            Console.WriteLine(timeElapsed);
+            
         }
     }
 }
