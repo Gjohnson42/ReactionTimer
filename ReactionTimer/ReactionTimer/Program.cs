@@ -6,6 +6,7 @@ namespace ReactionTimer
     {
         static void Main(string[] args)
         {
+            //This is just to show that changes update. 
             Console.WriteLine("Hello World!");
         }
     }
